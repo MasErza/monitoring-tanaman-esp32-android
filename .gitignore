@@ -1,2 +1,19 @@
+# Flutter generated files
+app/.dart_tool/
+app/build/
+app/.idea/
+
+# Flutter generated plugin files
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+
+# Android generated files
+app/android/.gradle/
+app/android/app/build/
+app/android/local.properties
+
+# IDE
+app/*.iml
+
 # ESP32 private configuration
-config.h
+esp-32/config.h
